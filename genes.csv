@@ -1,0 +1,9 @@
+Gene,Function,Length (bp),Chromosome,Organism
+BRCA1,DNA Repair,245,17,Homo sapiens
+TP53,Cell Cycle Regulation,547,17,Homo sapiens
+GATA3,Transcription Regulation,276,10,Homo sapiens
+MYC,Transcription Factor,330,8,Homo sapiens
+CDKN2A,Tumor Suppressor,500,9,Homo sapiens
+RB1,Cell Cycle Regulation,928,13,Homo sapiens
+BCL2,Apoptosis Regulation,239,18,Homo sapiens
+PTEN,Tumor Suppressor,403,10,Homo sapiens

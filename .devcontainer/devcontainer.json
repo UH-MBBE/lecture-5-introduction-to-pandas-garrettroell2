@@ -1,0 +1,17 @@
+{
+    "name": "Your Workspace Name",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.10",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.jupyter-celltags"
+    ],
+    "postCreateCommand": "pip install --upgrade pip && pip install notebook && pip install pandas && pip install pyarrow",
+    "remoteUser": "vscode"
+}
