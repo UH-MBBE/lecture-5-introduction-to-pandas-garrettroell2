@@ -1,0 +1,9 @@
+,Gene,Function,Length (bp),Chromosome,Organism,Expression Level,Expression Category
+0,BRCA1,DNA Repair,245,17,Homo sapiens,120.5,True
+1,TP53,Cell Cycle Regulation,547,17,Homo sapiens,80.3,False
+2,GATA3,Transcription Regulation,276,10,Homo sapiens,45.8,False
+3,MYC,Transcription Factor,330,8,Homo sapiens,200.1,True
+4,CDKN2A,Tumor Suppressor,500,9,Homo sapiens,150.7,True
+5,RB1,Cell Cycle Regulation,928,13,Homo sapiens,95.4,False
+6,BCL2,Apoptosis Regulation,239,18,Homo sapiens,60.2,False
+7,PTEN,Tumor Suppressor,403,10,Homo sapiens,175.5,True
